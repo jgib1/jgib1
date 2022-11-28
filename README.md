@@ -8,5 +8,5 @@
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   
-- [Microsoft Sentinel: Failed RDP Mapping](https://github.com/jgib1/Sentinel-Lab)
+- ## [Microsoft Sentinel: Failed RDP Mapping](https://github.com/jgib1/Sentinel-Lab)
 
