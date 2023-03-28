@@ -3,7 +3,7 @@
   
 <h2>📃 Certifications:</h2>
  - CompTIA Security+
-
+ - ITIL Foundation v4
   
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
