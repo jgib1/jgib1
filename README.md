@@ -2,7 +2,7 @@
 
   
 <h2>📃 Certifications:</h2>
- - CompTIA Security+
+ - CompTIA Security+ <br>
  - ITIL Foundation v4
   
   
