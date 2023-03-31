@@ -9,5 +9,5 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   
 - ## [Microsoft Sentinel: Failed RDP Mapping](https://github.com/jgib1/Sentinel-Lab)
-- ## [LimaCharlie: Writing EDR Rules]
+- ## [LimaCharlie: Custom EDR Rules]
 
