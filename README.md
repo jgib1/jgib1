@@ -12,8 +12,10 @@
   
 - ## [Microsoft Sentinel: Failed RDP Mapping](https://github.com/jgib1/Sentinel-Lab)
 - ## [LimaCharlie: Custom EDR Rules]
+<br>
 
 <h2>🚩 CTF Writeups</h2>
+<br>
 
 <h2>🐞 Bug Bounty</h2>
 
