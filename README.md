@@ -11,8 +11,11 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   
 - ## [Microsoft Sentinel: Failed RDP Mapping](https://github.com/jgib1/Sentinel-Lab)
-- ## [LimaCharlie: Custom EDR Rules]
-<br>
+<!-- - ## [LimaCharlie: Custom EDR Rules] 
+<br> -->
+
+<h2>💻 IT Projects</h2>
+- ## [Windows Server: Private Network Configuration]
 
 <h2>🚩 CTF Writeups</h2>
 <br>
