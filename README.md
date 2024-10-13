@@ -3,7 +3,7 @@
   
 # <h2>📃 Certifications:</h2>
  - CompTIA Security+ <br>
- - CompTIA Network+ (Expected Jun. 2024)<br>
+ - CompTIA Network+ <br>
  - CompTIA A+ <br>
  - ITIL Foundation v4
   
